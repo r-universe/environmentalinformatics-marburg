@@ -5,3 +5,6 @@
 [submodule "gimms"]
 	path = gimms
 	url = https://github.com/environmentalinformatics-marburg/gimms
+[submodule "satellite"]
+	path = satellite
+	url = https://github.com/environmentalinformatics-marburg/satellite
